@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Md. Abu Hamja 👋
 
-<!--
-**hamjuuuu-code/hamjuuuu-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Co-Founder & Marketing Manager at [Thakurgaon IT](https://thakurgaonit.com/)**
 
-Here are some ideas to get you started:
+I help small businesses and founders turn their website into a steady source of leads. Our team in Dhaka builds fast, conversion-focused websites and runs the ads and SEO that bring the right people to them, for clients in Bangladesh and abroad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What we do
+- 🌐 **Web design & development:** WordPress, WooCommerce, Shopify, Webflow
+- 📈 **Paid ads:** Google Ads and Meta (Facebook & Instagram) Ads
+- 🔎 **SEO:** technical fixes, on-page SEO and local SEO
+- 🛒 **E-commerce:** store setup, product pages and checkout optimization
+- ⚙️ **Custom software & automation:** tools that save time for small teams
+- 🤝 **B2B lead generation:** finding and reaching the right buyers
+
+### Industries I like working with
+Real estate · E-commerce brands · Local service businesses · Startups
+
+### Featured work
+_Coming soon: live demo sites and case studies, hosted right here on GitHub._
+
+### Let's talk
+- 💼 LinkedIn: [Md. Abu Hamja](https://www.linkedin.com/in/md-abu-hamja-271031338/)
+- 🌍 Website: [thakurgaonit.com](https://thakurgaonit.com/)
+- 📩 Have a project in mind? Send me a message on LinkedIn.
+
